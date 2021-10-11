@@ -7,7 +7,7 @@ public class C7_Trim {
 		String str="  Java ogrenmek cok guzel.   ";
 		System.out.println(str.trim());
 		System.out.println(str.trim().length());
-		
+		System.out.println(str);
 		
 		
 		
